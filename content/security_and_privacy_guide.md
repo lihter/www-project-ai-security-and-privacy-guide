@@ -1,5 +1,6 @@
 ---
 title: OWASP AI Security and Privacy Guide
+editURL: "https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/index.md"
 ---
 
 <img src="https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/assets/images/aisecprivlogosml.jpeg?raw=true" width="600" height ="127"><img src="https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/assets/images/humansonly.png?raw=true" align="right"/>

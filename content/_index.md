@@ -1,6 +1,6 @@
 ---
 title: OWASP AI Exchange
-draft: true
+editURL: "https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md"
 ---
 
 <a href="https://owaspai.org"><img src="https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/assets/images/aixlogosml.jpg?raw=true"></a>

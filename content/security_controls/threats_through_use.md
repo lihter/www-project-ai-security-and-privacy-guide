@@ -1,6 +1,6 @@
 ---
 title: 2. Threats through use
-draft: true
+editURL: "https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md"
 ---
 
 Threats through use take place through normal interaction with an AI model: providing input and receiving output. Many of these threats require experimentation with the model, which is referred to in itself as an _Oracle attack_.

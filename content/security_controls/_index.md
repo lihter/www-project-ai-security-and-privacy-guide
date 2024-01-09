@@ -1,6 +1,6 @@
 ---
 title: OWASP AI Security Controls
-draft: true
+editURL: "https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md"
 ---
 
 ## Introduction

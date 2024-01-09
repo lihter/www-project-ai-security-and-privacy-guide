@@ -1,6 +1,6 @@
 ---
 title: 1. General controls - for all threats
-draft: true
+editURL: "https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md"
 ---
 
 ---

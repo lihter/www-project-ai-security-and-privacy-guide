@@ -1,6 +1,6 @@
 ---
 title: 4. Runtime application security threats
-draft: true
+editURL: "https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md"
 ---
 
 ## 4.1. Non AI-specific application security threats
